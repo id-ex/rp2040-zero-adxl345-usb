@@ -10,9 +10,9 @@
   <a href="3drender3.png"><img src="3drender3.png" width="32%" alt="Сборка плат датчика"></a>
 </p>
 <p align="center">
-  <a href="photo1.jpg"><img src="photo1.jpg" width="100%" alt="Фото сборки 1"></a>
-  <a href="photo2.jpg"><img src="photo2.jpg" width="100%" alt="Фото сборки 2"></a>
-  <a href="photo3.jpg"><img src="photo3.jpg" width="100%" alt="Фото сборки 3"></a>
+  <a href="photo1.jpg"><img src="photo1.jpg" width="32%" alt="Фото сборки 1"></a>
+  <a href="photo2.jpg"><img src="photo2.jpg" width="32%" alt="Фото сборки 2"></a>
+  <a href="photo3.jpg"><img src="photo3.jpg" width="32%" alt="Фото сборки 3"></a>
 </p>
 <p align="center"><sub>Рендеры и готовая сборка · Нажмите на изображение, чтобы открыть его</sub></p>
 

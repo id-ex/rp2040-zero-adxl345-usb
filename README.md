@@ -10,9 +10,9 @@
   <a href="3drender3.png"><img src="3drender3.png" width="32%" alt="Sensor board assembly"></a>
 </p>
 <p align="center">
-  <a href="photo1.jpg"><img src="photo1.jpg" width="100%" alt="Build photo 1"></a>
-  <a href="photo2.jpg"><img src="photo2.jpg" width="100%" alt="Build photo 2"></a>
-  <a href="photo3.jpg"><img src="photo3.jpg" width="100%" alt="Build photo 3"></a>
+  <a href="photo1.jpg"><img src="photo1.jpg" width="32%" alt="Build photo 1"></a>
+  <a href="photo2.jpg"><img src="photo2.jpg" width="32%" alt="Build photo 2"></a>
+  <a href="photo3.jpg"><img src="photo3.jpg" width="32%" alt="Build photo 3"></a>
 </p>
 <p align="center"><sub>CAD renders and the finished build · Click an image to open it</sub></p>
 
