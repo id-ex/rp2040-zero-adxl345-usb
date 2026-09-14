@@ -28,11 +28,13 @@ An accelerometer measures printer vibrations so Klipper can select Input Shaper 
 
 ## Parts
 
-- RP2040-Zero (Waveshare pin layout)
-- ADXL345 breakout (GY-291 used here)
+- [RP2040-Zero — AliExpress](https://aliexpress.ru/item/1005006354505058.html?sku_id=12000036866363667&spm=a2g2w.productlist.search_results.1.4eba1ee6ZgtkmF) (Waveshare pin layout)
+- [ADXL345 breakout — AliExpress](https://aliexpress.ru/item/1005001621867550.html?sku_id=12000016846764576&spm=a2g2w.productlist.search_results.0.4a32301cQ4KS5m) (GY-291 used here)
 - Short wires/pin headers and soldering tools
 - USB data cable
 - Printed enclosure and a rigid mounting solution
+
+Check the selected product variant, pin layout and module dimensions before ordering; listings may change.
 
 ## Wiring — this build
 
