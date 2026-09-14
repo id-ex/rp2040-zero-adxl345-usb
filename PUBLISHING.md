@@ -9,7 +9,7 @@ Original project files are MIT licensed; see LICENSE. Third-party work is not co
 ## Publication scope
 
 - English and Russian READMEs, LICENSE and portable `config/adxl.cfg`.
-- Two CAD renders and three build photographs.
+- Three CAD renders and three build photographs.
 - Only these 3D files: `rp2040z+adxl345-case.step` and `rp2040z+adxl345-cover.step`.
 - No FreeCAD assembly, external component models, backups or host-specific configuration.
 
@@ -21,7 +21,7 @@ Check photos for personal details and location metadata. Keep the serial ID as a
 git status --short
 git diff --check
 git add README.md README.ru.md PUBLISHING.md LICENSE .gitignore config/ \
-  3drender1.png 3drender2.png photo1.jpg photo2.jpg photo3.jpg \
+  3drender1.png 3drender2.png 3drender3.png photo1.jpg photo2.jpg photo3.jpg \
   rp2040z+adxl345-case.step rp2040z+adxl345-cover.step
 git diff --cached --stat
 git diff --cached --check

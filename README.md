@@ -12,6 +12,8 @@ By [id-ex](https://github.com/id-ex) · [MIT License](LICENSE)
 |---|---|
 | ![Enclosure render 1](3drender1.png) | ![Enclosure render 2](3drender2.png) |
 
+![Enclosure render 3](3drender3.png)
+
 ### Build photos
 
 ![Build photo 1](photo1.jpg)
@@ -162,7 +164,7 @@ Unplugging while the include is enabled causes an MCU connection error and stops
 - `config/adxl.cfg` — portable configuration template; edit the serial path
 - `rp2040z+adxl345-case.step` — enclosure body
 - `rp2040z+adxl345-cover.step` — enclosure cover
-- `3drender1.png`, `3drender2.png` — CAD renders
+- `3drender1.png`, `3drender2.png`, `3drender3.png` — CAD renders
 - `photo1.jpg`, `photo2.jpg`, `photo3.jpg` — build photos
 
 STEP models can be opened in CAD and exported as STL/3MF for slicing. Check fit and mounting clearance for your own modules. Only the enclosure body and cover STEP files are published. The FreeCAD assembly, external component reference models and local backups are excluded from Git.
