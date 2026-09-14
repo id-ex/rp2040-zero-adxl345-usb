@@ -1,0 +1,2 @@
+# Preserve CAD exports verbatim; exporter whitespace is not a source error.
+*.step -whitespace
