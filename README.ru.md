@@ -6,24 +6,17 @@
 
 ## Внешний вид
 
-| Рендер корпуса | Рендер корпуса |
-|---|---|
-| ![Рендер 1](3drender1.png) | ![Рендер 2](3drender2.png) |
-
-![Рендер 3](3drender3.png)
-
-### Фотографии сборки
-
-![Фото сборки 1](photo1.jpg)
-
-<details>
-<summary>Ещё фотографии</summary>
-
-![Фото сборки 2](photo2.jpg)
-
-![Фото сборки 3](photo3.jpg)
-
-</details>
+<p align="center">
+  <a href="3drender1.png"><img src="3drender1.png" width="32%" alt="Закрытый корпус"></a>
+  <a href="3drender2.png"><img src="3drender2.png" width="32%" alt="Корпус без крышки"></a>
+  <a href="3drender3.png"><img src="3drender3.png" width="32%" alt="Сборка плат датчика"></a>
+</p>
+<p align="center">
+  <a href="photo1.jpg"><img src="photo1.jpg" width="32%" alt="Фото сборки 1"></a>
+  <a href="photo2.jpg"><img src="photo2.jpg" width="32%" alt="Фото сборки 2"></a>
+  <a href="photo3.jpg"><img src="photo3.jpg" width="32%" alt="Фото сборки 3"></a>
+</p>
+<p align="center"><sub>Рендеры и готовая сборка · Нажмите на изображение, чтобы открыть оригинал</sub></p>
 
 ## Зачем этот проект
 Готовые USB-акселерометры для настройки принтера могут стоить заметно дороже двух доступных модулей — RP2040-Zero и ADXL345 (GY-291). Здесь они объединены в компактный USB-датчик с печатным корпусом. Контакты удобно соединяются гребёнкой и короткими перемычками: сборка простая, деталей минимум. Итоговая экономия зависит от местных цен.
