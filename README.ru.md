@@ -5,14 +5,14 @@
 ## Внешний вид
 
 <p align="center">
-  <a href="3drender1.png"><img src="3drender1.png" width="32%" alt="Закрытый корпус"></a>
-  <a href="3drender2.png"><img src="3drender2.png" width="32%" alt="Корпус без крышки"></a>
   <a href="3drender3.png"><img src="3drender3.png" width="32%" alt="Сборка плат датчика"></a>
+  <a href="3drender2.png"><img src="3drender2.png" width="32%" alt="Корпус без крышки"></a>
+  <a href="3drender1.png"><img src="3drender1.png" width="32%" alt="Закрытый корпус"></a>
 </p>
 <p align="center">
-  <a href="photo1.jpg"><img src="photo1.jpg" width="32%" alt="Фото сборки 1"></a>
-  <a href="photo2.jpg"><img src="photo2.jpg" width="32%" alt="Фото сборки 2"></a>
   <a href="photo3.jpg"><img src="photo3.jpg" width="32%" alt="Фото сборки 3"></a>
+  <a href="photo2.jpg"><img src="photo2.jpg" width="32%" alt="Фото сборки 2"></a>
+  <a href="photo1.jpg"><img src="photo1.jpg" width="32%" alt="Фото сборки 1"></a>
 </p>
 <p align="center"><sub>Рендеры и готовая сборка · Нажмите на изображение, чтобы открыть его</sub></p>
 
